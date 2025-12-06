@@ -3,7 +3,8 @@
 **Campus Unite** is an innovative web platform designed to bring together students, organizers, and authorities on a single digital campus network.  
 It simplifies event coordination, complaint management, and communication to make campus life more organized, transparent, and interactive.
 
-🔗 **Live Frontend:** [Campus Unite](https://campus-unite-beta14.vercel.app/)
+🔗 **Deployed Frontend:** [Campus Unite](https://campus-unite-beta14.vercel.app/)
+🔗 **Deployed Backend:** https://campusunite-backend-1-2.onrender.com
 
 ---
 
@@ -135,3 +136,4 @@ All rights reserved © **Campus Unite**
 
 We’re passionate about improving digital campus communication.  
 Share your ideas, feedback, or collaboration requests — let’s make campuses more connected, one step at a time.
+
