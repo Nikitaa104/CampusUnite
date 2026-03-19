@@ -3,9 +3,7 @@ import Event from '../models/Event.js';
 import Bookmark from '../models/Bookmark.js';
 import jwt from 'jsonwebtoken';
 
-// ============================================
 // DASHBOARD OVERVIEW (ANALYTICS)
-// ============================================
 
 // @desc    Get dashboard overview stats
 // @route   GET /api/admin/dashboard
